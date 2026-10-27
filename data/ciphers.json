@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "When Life Gives You Tangerines",
+    "category": "ARCANA",
+    "difficulty": "medium",
+    "points": 250,
+    "answer": "when life gives you tangerines",
+    "image_filename": "1.png"
+  },
+  {
+    "id": 2,
+    "title": "Jhulan Goswami",
+    "category": "ARCANA",
+    "difficulty": "easy",
+    "points": 150,
+    "answer": "jhulan goswami",
+    "image_filename": "2.png"
+  },
+  {
+    "id": 3,
+    "title": "Neymar Jr.",
+    "category": "ARCANA",
+    "difficulty": "hard",
+    "points": 400,
+    "answer": "neymar jr.",
+    "image_filename": "3.png"
+  },
+  {
+    "id": 4,
+    "title": "Akbar",
+    "category": "ARCANA",
+    "difficulty": "easy",
+    "points": 150,
+    "answer": "akbar",
+    "image_filename": "4.png"
+  },
+  {
+    "id": 5,
+    "title": "The Ghost of Sparta — Kratos",
+    "category": "ARCANA",
+    "difficulty": "hard",
+    "points": 400,
+    "answer": "the ghost of sparta — kratos",
+    "image_filename": "5.png"
+  },
+  {
+    "id": 6,
+    "title": "Atomic Habits",
+    "category": "ARCANA",
+    "difficulty": "easy",
+    "points": 150,
+    "answer": "atomic habits",
+    "image_filename": "6.png"
+  },
+  {
+    "id": 7,
+    "title": "Pluto",
+    "category": "ARCANA",
+    "difficulty": "easy",
+    "points": 150,
+    "answer": "pluto",
+    "image_filename": "7.png"
+  },
+  {
+    "id": 8,
+    "title": "Nana Patekar",
+    "category": "ARCANA",
+    "difficulty": "hard",
+    "points": 400,
+    "answer": "nana patekar",
+    "image_filename": "8.png"
+  },
+  {
+    "id": 9,
+    "title": "Javed Jaffrey",
+    "category": "ARCANA",
+    "difficulty": "hard",
+    "points": 400,
+    "answer": "javed jaffrey",
+    "image_filename": "9.png"
+  },
+  {
+    "id": 10,
+    "title": "SSS-Class Suicide Hunter",
+    "category": "ARCANA",
+    "difficulty": "hard",
+    "points": 400,
+    "answer": "sss-class suicide hunter",
+    "image_filename": "10.png"
+  },
+  {
+    "id": 11,
+    "title": "Cheap Thrills",
+    "category": "ARCANA",
+    "difficulty": "easy",
+    "points": 150,
+    "answer": "cheap thrills",
+    "image_filename": "11.png"
+  },
+  {
+    "id": 12,
+    "title": "VS Code",
+    "category": "ARCANA",
+    "difficulty": "hard",
+    "points": 400,
+    "answer": "vs code",
+    "image_filename": "12.png"
+  },
+  {
+    "id": 13,
+    "title": "Model Training (Machine Learning)",
+    "category": "ARCANA",
+    "difficulty": "medium",
+    "points": 250,
+    "answer": "model training",
+    "image_filename": "13.png"
+  },
+  {
+    "id": 14,
+    "title": "On Your Left",
+    "category": "ARCANA",
+    "difficulty": "medium",
+    "points": 250,
+    "answer": "on your left",
+    "image_filename": "14.png"
+  },
+  {
+    "id": 15,
+    "title": "Winter Is Coming",
+    "category": "ARCANA",
+    "difficulty": "medium",
+    "points": 250,
+    "answer": "winter is coming",
+    "image_filename": "15.png"
+  },
+  {
+    "id": 16,
+    "title": "RTX Graphics Card",
+    "category": "ARCANA",
+    "difficulty": "hard",
+    "points": 400,
+    "answer": "rtx graphics card",
+    "image_filename": "16.png"
+  }
+]
